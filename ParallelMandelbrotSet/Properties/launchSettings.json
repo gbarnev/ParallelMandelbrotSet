@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParallelMandelbrotSet": {
+      "commandName": "Project",
+      "commandLineArgs": "-s 1024x1024 -t 8 -o zad18.png -g 2 -test"
+    }
+  }
+}
